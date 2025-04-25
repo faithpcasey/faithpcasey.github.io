@@ -41,6 +41,12 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    font-family: 'Josefin Sans', sans-serif; /* Apply to the whole body */
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700; /* You can change the weight */
 }
 
 h1 {
